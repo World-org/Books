@@ -1,0 +1,1 @@
+This folder contains specific books or book resources related to data structures and algorithms.
