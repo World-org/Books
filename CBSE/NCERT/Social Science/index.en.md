@@ -1,0 +1,1 @@
+This folder contains specific books or book resources related to subject - Social Science w.r.t Central Board of Secondary Education.
