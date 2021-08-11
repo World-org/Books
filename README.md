@@ -1,7 +1,7 @@
 # Hey, welcome!
 ## Here's a free little collection of books, maybe you can find the one you want
 
-This is a curated collection of free algorithm related eBooks available on the Internet. Please feel free to share and learn.
+This is a curated collection of free eBooks available on the Internet. Please feel free to share and learn.
 
 If you want to contribute to this list, send a pull request. All contributors will be recognized and appreciated.
 
