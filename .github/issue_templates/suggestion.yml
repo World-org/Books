@@ -1,0 +1,22 @@
+name: suggestion
+description: Use this for giving any suggestion. Do NOT create blank issues
+title: "[SUGGESTION]"
+labels: [suggestion]
+body:
+  - type: markdown
+    attributes:
+      value: "# Suggestion"
+  - type: textarea
+    id: issuedescription
+    attributes:
+      label: What would you like to suggest?
+      description: Provide a clear and concise explanation of your idea.
+    validations:
+      required: true
+  - type: textarea
+    id: extrainfo
+    attributes:
+      label: Additional information
+      description: Detailed description of how it will be implemented?
+    validations:
+      required: true
