@@ -9,4 +9,5 @@ If you want to contribute to this list, send a pull request. All contributors wi
 
 * School student - CBSE: find all the books listed below in [**CBSE**](/CBSE) folder of this repo
 * *  [**Mathematics**](/CBSE/Mathematics)
+* *  [**English**](/CBSE/English)
 * Computer Science students - find all the books listed below in [**Computer Science**](/Computer-Science) folder of this repo
