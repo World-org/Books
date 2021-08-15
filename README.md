@@ -15,4 +15,5 @@ If you want to contribute to this list, send a pull request. All contributors wi
 * Computer Science students - find all the books listed below in [**Computer Science**](/Computer-Science) folder of this repo
     * [**Operating System**](/Computer-Science/Operating-System)
         * [**PC Assembly Language Book**](/Computer-Science/Operating-System/Xv6)
+        * [**Brennan's Guide to Inline Assembly**](/Computer-Science/Operating-System/Xv6)
     * [**Data Structures and Algorithms**](/Computer-Science/Data-Structures-and-Algorithms)
