@@ -17,3 +17,5 @@ If you want to contribute to this list, send a pull request. All contributors wi
         * [**PC Assembly Language Book**](/Computer-Science/Operating-System/Xv6)
         * [**Brennan's Guide to Inline Assembly**](/Computer-Science/Operating-System/Inline_assembly_with_DJGPP)
     * [**Data Structures and Algorithms**](/Computer-Science/Data-Structures-and-Algorithms)
+* Looking for interesting and fun puzzles? Checkout the list below
+    * [**Puzzles**](/Puzzles)
