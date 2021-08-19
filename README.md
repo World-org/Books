@@ -15,7 +15,7 @@ If you want to contribute to this list, send a pull request. All contributors wi
 * Computer Science students - find all the books listed below in [**Computer Science**](/Computer-Science) folder of this repo
     * [**Operating System**](/Computer-Science/Operating-System)
         * [**PC Assembly Language Book**](https://pdos.csail.mit.edu/6.828/2014/xv6/book-rev8.pdf)
-        * [**Brennan's Guide to Inline Assembly**](/Computer-Science/Operating-System/Inline_assembly_with_DJGPP)
+        * [**Brennan's Guide to Inline Assembly**](http://www.delorie.com/djgpp/doc/brennan/brennan_att_inline_djgpp.html)
     * [**Data Structures and Algorithms**](/Computer-Science/Data-Structures-and-Algorithms)
 * Looking for interesting and fun puzzles? Checkout the list below
     * [**Puzzles**](/Puzzles)
