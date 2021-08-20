@@ -19,3 +19,4 @@ If you want to contribute to this list, send a pull request. All contributors wi
     * [**Data Structures and Algorithms**](/Computer-Science/Data-Structures-and-Algorithms)
 * Looking for interesting and fun puzzles? Checkout the list below
     * [**Puzzles**](/Puzzles)
+        * [**The Lady of the Tiger**](https://pdos.csail.mit.edu/6.828/2014/xv6/book-rev8.pdf)
