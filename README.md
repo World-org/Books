@@ -16,6 +16,7 @@ If you want to contribute to this list, send a pull request. All contributors wi
     * [**Operating System**](/Computer-Science/Operating-System)
         * [**PC Assembly Language Book**](https://pdos.csail.mit.edu/6.828/2014/xv6/book-rev8.pdf)
         * [**Brennan's Guide to Inline Assembly**](http://www.delorie.com/djgpp/doc/brennan/brennan_att_inline_djgpp.html)
+        * [**Operating System Concepts, 8th Edition**](http://web.cse.ohio-state.edu/~soundarajan.1/courses/3430/silberschatz8thedition.pdf)
     * [**Data Structures and Algorithms**](/Computer-Science/Data-Structures-and-Algorithms)
 * Looking for interesting and fun puzzles? Checkout the list below
     * [**Puzzles**](/Puzzles)
