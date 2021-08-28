@@ -24,4 +24,4 @@ If you want to contribute to this list, send a pull request. All contributors wi
     * [**Puzzles**](https://github.com/World-org/Books/tree/master/Puzzles)
         * [**The Lady of the Tiger**](https://pdos.csail.mit.edu/6.828/2014/xv6/book-rev8.pdf)
 * For higher mathematics
-        * [**Linear Programming and Network Flows**](https://github.com/World-org/Books/blob/master/Mathematics/Linear%20Programming%20and%20Network%20Flows.pdf)
+    * [**Linear Programming and Network Flows**](https://github.com/World-org/Books/blob/master/Mathematics/Linear%20Programming%20and%20Network%20Flows.pdf)
