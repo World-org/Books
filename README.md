@@ -14,7 +14,8 @@ If you want to contribute to this list, send a pull request. All contributors wi
         * [**English**](/CBSE/NCERT/English)
         * [**Social Science**](/CBSE/NCERT/Social-Science)
 * Computer Science students - find all the books listed below in [**Computer Science**](/Computer-Science) folder of this repo
-    * [**Competitive Programming**]
+    * [**Competitive Programming**](https://github.com/Swastyy/Books/tree/master/Computer%20Science/Competitive%20Programming)
+        * [**Guide to Competitive Programming**](https://github.com/Swastyy/Books/blob/master/Computer%20Science/Competitive%20Programming/Guide-to-Competitive-Programming-Learning-and-improving-Algorithms-through-Contests(1).pdf)
     * [**Operating System**](https://github.com/World-org/Books/tree/master/Computer%20Science/Operating%20System)
         * [**PC Assembly Language Book**](https://pdos.csail.mit.edu/6.828/2014/xv6/book-rev8.pdf)
         * [**Brennan's Guide to Inline Assembly**](http://www.delorie.com/djgpp/doc/brennan/brennan_att_inline_djgpp.html)
