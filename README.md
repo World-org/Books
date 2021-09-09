@@ -23,6 +23,8 @@ If you want to contribute to this list, send a pull request. All contributors wi
         * [**Modern Operating Systems, 2nd Edition**](http://web.ist.utl.pt/~fabio.ferreira/material/so/Modern%20Operating%20Systems%202nd%20Ed%20by%20Tanenbaum%20(with%20pdf%20index).pdf)
     * [**Data Structures and Algorithms**](https://github.com/World-org/Books/tree/master/Computer%20Science/Data%20Structures%20and%20Algorithms)
         * [**Introduction to Algorithms, 3rd Edition**](https://github.com/World-org/Books/blob/master/Computer%20Science/Data%20Structures%20and%20Algorithms/Introduction_to_algorithms-3rd%20Edition.pdf)
+    * [**Computer Networks**]()
+        * [**Computer Networks - A top-down approach, Jim Kurose and Keith W. Ross**](https://drive.google.com/file/d/1FGcphXORI6yBGkYopZPFEMdmV1lSMp_D/view?usp=sharing)
 * Looking for interesting and fun puzzles? Checkout the list below
     * [**Puzzles**](https://github.com/World-org/Books/tree/master/Puzzles)
         * [**The Lady of the Tiger**](https://pdos.csail.mit.edu/6.828/2014/xv6/book-rev8.pdf)
