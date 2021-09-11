@@ -9,8 +9,9 @@ If you want to contribute to this list, send a pull request. All contributors wi
 ## To help you finding it, here is table of content provided for convenience
 
 * School student - CBSE: find all the books listed below in [**CBSE**](/CBSE) folder of this repo
-    * [**NCERT Books**](/CBSE)
+    * [*NCERT Books*](/CBSE)
         * [**Mathematics**](/CBSE/NCERT/Mathematics)
+            * Class 10 [(Download)](https://ncert.nic.in/textbook/pdf/kemh1dd.zip)
         * [**English**](/CBSE/NCERT/English)
         * [**Social Science**](/CBSE/NCERT/Social-Science)
 * Computer Science students - find all the books listed below in [**Computer Science**](/Computer-Science) folder of this repo
