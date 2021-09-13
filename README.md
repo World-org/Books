@@ -32,3 +32,5 @@ If you want to contribute to this list, send a pull request. All contributors wi
         * [**The Lady of the Tiger**](https://pdos.csail.mit.edu/6.828/2014/xv6/book-rev8.pdf)
 * For higher mathematics
     * [**Linear Programming and Network Flows**](https://github.com/World-org/Books/blob/master/Mathematics/Linear%20Programming%20and%20Network%20Flows.pdf)
+* For Social Studies
+    * [**Indian Polity by M Laxmikant, 6th Edition**](https://drive.google.com/file/d/1ZlLBfOgc5MwXGEvd7uVULL98aavqoWet/view)
