@@ -33,4 +33,8 @@ If you want to contribute to this list, send a pull request. All contributors wi
 * For higher mathematics
     * [**Linear Programming and Network Flows**](https://github.com/World-org/Books/blob/master/Mathematics/Linear%20Programming%20and%20Network%20Flows.pdf)
 * For Social Studies
-    * [**Indian Polity by M Laxmikant, 6th Edition**](https://drive.google.com/file/d/1ZlLBfOgc5MwXGEvd7uVULL98aavqoWet/view)
+    * Politics
+        * [**Indian Polity by M Laxmikant, 6th Edition**](https://drive.google.com/file/d/1ZlLBfOgc5MwXGEvd7uVULL98aavqoWet/view)
+    * Economics
+        * **W. Jack, Principles of Health Economics for Developing Countries, WBI Development Studies, The World Bank, 1999.**
+        * **S. Akinyemi, The Economics of Education, Strategic Book Publishing and Rights Co., 2013.**
