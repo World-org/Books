@@ -16,6 +16,11 @@ If you want to contribute to this list, send a pull request. All contributors wi
             * Class 10 [(Download)](https://ncert.nic.in/textbook/pdf/kemh1dd.zip)
             * Class 9 [(Download)](https://ncert.nic.in/textbook/pdf/kemh1dd.zip)
         * [**English**](/CBSE/NCERT/English)
+            * Class 12 [(Flamingos, Download)](https://ncert.nic.in/textbook/pdf/lefl1dd.zip)
+            * Class 12 [(Vistas, Download)](https://ncert.nic.in/textbook/pdf/levt1dd.zip)
+            * Class 11 [(Woven Words, Download)](https://ncert.nic.in/textbook/pdf/keww1dd.zip)
+            * Class 10 [(Download)](https://ncert.nic.in/textbook/pdf/jeff1dd.zip)
+            * Class 9 [(Download)](https://ncert.nic.in/textbook/pdf/iebe1dd.zip)
         * [**Social Science**](/CBSE/NCERT/Social-Science)
 * Computer Science students - find all the books listed below in [**Computer Science**](/Computer-Science) folder of this repo
     * [**Competitive Programming**](https://github.com/Swastyy/Books/tree/master/Computer%20Science/Competitive%20Programming)
