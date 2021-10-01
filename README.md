@@ -37,5 +37,5 @@ If you want to contribute to this list, send a pull request. All contributors wi
     * Politics
         * [**Indian Polity by M Laxmikant, 6th Edition**](https://drive.google.com/file/d/1ZlLBfOgc5MwXGEvd7uVULL98aavqoWet/view)
     * Economics
-        * **W. Jack, Principles of Health Economics for Developing Countries, WBI Development Studies, The World Bank, 1999.**
-        * **S. Akinyemi, The Economics of Education, Strategic Book Publishing and Rights Co., 2013.**
+        * [**W. Jack, Principles of Health Economics for Developing Countries, WBI Development Studies, The World Bank, 1999.**](http://documents.worldbank.org/curated/en/569351468765045048/pdf/multi-page.pdf)
+        * [**S. Akinyemi, The Economics of Education, Strategic Book Publishing and Rights Co., 2013.**](http://studentservices.lasu.edu.ng/LASU_Nigeria/Academic_Biodata/AKINYEMI,%20Samuel%20Taiwo.pdf)
