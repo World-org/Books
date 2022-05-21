@@ -1,2 +1,16 @@
-All the content description will be provided here.
-#TODO
+* Computer Science students - find all the books listed below in [**Computer Science**](/Computer-Science) folder of this repo
+    * [**Competitive Programming**](https://github.com/Swastyy/Books/tree/master/Computer%20Science/Competitive%20Programming)
+        * [**Guide to Competitive Programming**](https://github.com/Swastyy/Books/blob/master/Computer%20Science/Competitive%20Programming/Guide-to-Competitive-Programming-Learning-and-improving-Algorithms-through-Contests(1).pdf)
+    * [**Operating System**](https://github.com/World-org/Books/tree/master/Computer%20Science/Operating%20System)
+        * [**PC Assembly Language Book**](https://pdos.csail.mit.edu/6.828/2014/xv6/book-rev8.pdf)
+        * [**Brennan's Guide to Inline Assembly**](http://www.delorie.com/djgpp/doc/brennan/brennan_att_inline_djgpp.html)
+        * [**Operating System Concepts, 8th Edition**](http://web.cse.ohio-state.edu/~soundarajan.1/courses/3430/silberschatz8thedition.pdf)
+        * [**Modern Operating Systems, 2nd Edition**](http://web.ist.utl.pt/~fabio.ferreira/material/so/Modern%20Operating%20Systems%202nd%20Ed%20by%20Tanenbaum%20(with%20pdf%20index).pdf)
+    * [**Data Structures and Algorithms**](https://github.com/World-org/Books/tree/master/Computer%20Science/Data%20Structures%20and%20Algorithms)
+        * [**Introduction to Algorithms, 3rd Edition**](https://github.com/World-org/Books/blob/master/Computer%20Science/Data%20Structures%20and%20Algorithms/Introduction_to_algorithms-3rd%20Edition.pdf)
+    * [**Computer Networks**]()
+        * [**Computer Networking - A top-down approach, Jim Kurose and Keith W. Ross**](https://drive.google.com/file/d/1FGcphXORI6yBGkYopZPFEMdmV1lSMp_D/view?usp=sharing)
+        * [**Computer Networks, 5th Edi, Andrew S Tanenbaum and David J Wetherall**](https://www.mbit.edu.in/wp-content/uploads/2020/05/Computer-Networks-5th-Edition.pdf)
+        * [**Unix Network Programming, Volume 1, W. Richard Stevens**](https://mathcs.clarku.edu/~jbreecher/cs280/UNIX%20Network%20Programming(Volume1,3rd).pdf)
+    * [**Internet of Things**]()
+        * [**Programming Arduino: Getting Started with Sketches, by Simon Monk, 2nd Edi, McGrawHill Education, 2016**]()
