@@ -1,0 +1,1 @@
+This folder contains specific resources related to research socials.
