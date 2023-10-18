@@ -25,7 +25,7 @@ If you want to contribute to this list, send a pull request. All contributors wi
             * Class 10 [(Download)](https://ncert.nic.in/textbook/pdf/jesc1dd.zip)
             * Class 9 [(Download)](https://ncert.nic.in/textbook/pdf/iesc1dd.zip)
         * [**Social Science**](/CBSE/NCERT/Social-Science)
-* Computer Science students - find all the books listed below in [**Computer Science**](/Computer-Science) folder of this repo
+* Computer Science students - Find all the books listed below in [**Computer Science**](/Computer-Science) folder of this repository
     * [**Competitive Programming**](https://github.com/Swastyy/Books/tree/master/Computer%20Science/Competitive%20Programming)
         * [**Guide to Competitive Programming**](https://github.com/Swastyy/Books/blob/master/Computer%20Science/Competitive%20Programming/Guide-to-Competitive-Programming-Learning-and-improving-Algorithms-through-Contests(1).pdf)
     * [**Operating System**](https://github.com/World-org/Books/tree/master/Computer%20Science/Operating%20System)
